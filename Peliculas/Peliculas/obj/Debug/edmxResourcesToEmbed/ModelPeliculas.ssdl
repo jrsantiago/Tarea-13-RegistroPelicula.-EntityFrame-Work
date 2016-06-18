@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PeliculaDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Peliculas">
+    <Key>
+      <PropertyRef Name="idPeliculas" />
+    </Key>
+    <Property Name="idPeliculas" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idCategoria" Type="int" />
+    <Property Name="titulo" Type="varchar" MaxLength="30" />
+    <Property Name="signosis" Type="varchar" MaxLength="50" />
+    <Property Name="calificacion" Type="varchar" MaxLength="5" />
+    <Property Name="ano" Type="int" />
+    <Property Name="idioma" Type="varchar" MaxLength="20" />
+    <Property Name="genero" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityContainer Name="PeliculaDBModelStoreContainer">
+    <EntitySet Name="Peliculas" EntityType="Self.Peliculas" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

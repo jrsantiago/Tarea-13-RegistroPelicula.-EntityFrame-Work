@@ -1,0 +1,13 @@
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\bin\Debug\Peliculas.exe.config
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\bin\Debug\Peliculas.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\bin\Debug\Peliculas.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\bin\Debug\EntityFramework.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\bin\Debug\EntityFramework.xml
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\obj\Debug\Peliculas.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\obj\Debug\Peliculas.Peliculas.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\obj\Debug\Peliculas.Properties.Resources.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.GenerateResource.Cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\obj\Debug\Peliculas.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea13\Peliculas\Peliculas\obj\Debug\Peliculas.pdb
